@@ -1,7 +1,7 @@
 # to_sep
 
 Ruby charactor separator.
-When you make search in website or document, Korean charactor should be separated. to_sep help you separate a Korean charactor.
+When you make search in website or document, Korean charactor should be separated. to_sep help you to separate a Korean charactor.
 
 ## Installation
 
