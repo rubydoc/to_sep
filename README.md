@@ -19,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
   
-    "안녕하세요".to_sep  
+    "안녕하세요".to_sep  #=> "ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ"
 
 ## Contributing
 
